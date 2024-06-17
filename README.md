@@ -1,3 +1,3 @@
 # Fibonacci_Mips
 
-Neste trabalho prático em grupo foi feito um código em MIPS/ASSEMBLY, que resolvesse a sequência de fibonacci e que fosse possível calcular a razão áurea através da sequência de fibonacci.
+O objetivo deste exercício é desenvolver um programa em linguagem Assembly MIPS que realiza o cálculo de números da sequência de Fibonacci e determina a razão áurea usando dois números consecutivos da sequência.
